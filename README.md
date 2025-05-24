@@ -43,18 +43,17 @@
 ---
 
 ### 🔥 Recent Projects
+- 🚧 Working on a **Micro-SaaS tool** for educators – launching soon!
+- 🔐 Building a **location-based app** to support local businesses.
+- 🛠️ Experimenting with **AI-powered utilities** in personal productivity.
 
-- 🧠 **EduTrack/TuitionMate** – Manage batches, fees & attendance for tutors  
-- 🏡 **Local Business Finder App** – Frontend app for hyperlocal business discovery  
-- 🔍 **Skill Exchange Platform** – Connect learners and teachers locally  
-
----
+*Stay tuned for updates – exciting things on the way!*
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarkumar1824@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-kumar-4b2713252/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/sagarmishra__1/))
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarkumar3635@gmail.com)
 
 ---
 
