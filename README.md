@@ -1,11 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Sagar Kumar</h1>
 <h3 align="center">Aspiring Backend Developer | B.Tech CSE | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://ik.imagekit.io/ahjsmi0q5n/IMG-20250525-WA0005.jpg?updatedAt=1748113425133" alt="Uploaded Image" />
-</p>
 
----
 
 🔧 I’m currently building backend systems with **Node.js**, **Express**, and **MongoDB**  
 🌱 Learning **API design**, **database modeling**, **authentication**, and **SaaS backend architecture**   
