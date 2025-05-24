@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring Backend Developer | B.Tech CSE | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://ik.imagekit.io/ahjsmi0q5n/IMG-20250525-WA0005.jpg?updatedAt=1748113425133" alt="Uploaded Image" />
+  <img src="https://ik.imagekit.io/ahjsmi0q5n/IMG-20250525-WA0005.jpg?updatedAt=1748113425133" alt="Uploaded Image" style="width:50%;" />
 </p>
+
 
 ---
 
