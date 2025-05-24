@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Backend Developer | B.Tech CSE | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://ibb.co/d0qkdc1h" width="150" alt="Sagar Kumar profile photo" style="border-radius: 50%;" />
+  <img src="[https://ibb.co/d0qkdc1h](https://i.ibb.co/abc123/IMG-20250525-WA0005.jpg)" width="150" alt="Sagar Kumar profile photo" style="border-radius: 50%;" />
 </p>
 
 ---
