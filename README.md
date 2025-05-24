@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://ik.imagekit.io/ahjsmi0q5n/IMG-20250525-WA0005.jpg?updatedAt=1748113425133" alt="Uploaded Image" style="width:50%;" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6nFGJU3bzX1Ty/giphy.gif" width="300" />
+</p>
+
 
 
 ---
@@ -13,18 +17,30 @@
 📫 Reach me at **sagarmishra3635@gmail.com**  
 🌐 [Portfolio (coming soon)](https://github.com/Sagarkumar1824)
 
+
+### 🎯 Interests
+
+- Exploring backend architectures
+- Blogging about tech and psychology 🧠
+- - Playing Badminton 
+
 ---
 
 ### 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### Skills
+
+- Node.js      ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- Express.js   ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+- MongoDB      ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- JavaScript   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+- C++          ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+Or, use custom progress bars like:
+
+
 
 ---
 
@@ -52,10 +68,10 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sagar-kumar-4b2713252/))
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/sagarmishra__1/))
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmishra3635@gmail.com)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-kumar-4b2713252/)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmishra3635@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sagarmishra__1/)
+
 
 > "Backend is where the real magic happens." 🔥
