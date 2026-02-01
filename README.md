@@ -51,7 +51,7 @@ Building scalable, secure, and maintainable web applications with .NET
 📌 *Open-source projects and case studies coming soon.*
 
 ---
-## 🚀 Project Title
+## 🚀 Project Title(Coming Soon)
 
 **Role:** Full Stack .NET Developer  
 **Tech Stack:** ASP.NET Core, Web API, SQL Server, Entity Framework Core  
