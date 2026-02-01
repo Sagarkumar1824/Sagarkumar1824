@@ -52,20 +52,11 @@ Building scalable, secure, and maintainable web applications with .NET
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarkumar1824&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-  />
+  <img src="https://streak-stats.demolab.com?user=Sagarkumar1824&hide_border=true" />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sagarkumar1824&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-  />
-</p>
-
 
 ---
 
