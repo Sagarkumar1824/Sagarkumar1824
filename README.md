@@ -41,6 +41,12 @@ Building scalable, secure, and maintainable web applications with .NET
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sagarkumar1824/Sagarkumar1824/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 🧪 Projects
