@@ -51,14 +51,39 @@ Building scalable, secure, and maintainable web applications with .NET
 📌 *Open-source projects and case studies coming soon.*
 
 ---
+## 🚀 Project Title
 
-## 📈 GitHub Activity
+**Role:** Full Stack .NET Developer  
+**Tech Stack:** ASP.NET Core, Web API, SQL Server, Entity Framework Core  
+**Status:** In Progress / Completed  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagarkumar1824&hide_border=true" />
-</p>
+### 📌 Overview
+Briefly explain what the project does and what problem it solves (2–3 lines).
 
----
+### ⚙️ Key Features
+- Feature 1 (e.g., User authentication & authorization)
+- Feature 2 (e.g., Role-based access control)
+- Feature 3 (e.g., CRUD operations with validation)
+- Feature 4 (e.g., RESTful APIs for frontend integration)
+
+### 🧠 What I Worked On
+- Designed database schema and relationships
+- Built REST APIs using ASP.NET Core
+- Implemented authentication & authorization
+- Optimized queries and improved performance
+
+### 🏗️ Architecture & Design
+- Followed layered / clean architecture
+- Used Entity Framework Core for data access
+- Applied separation of concerns
+
+### 🔒 Security & Best Practices
+- Input validation & error handling
+- Secure API endpoints
+- Followed coding standards and best practices
+
+🔗 **Repository:** Private / Coming Soon
+
 
 ## 🤝 Connect With Me
 
