@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
-<h3 align="center">.Full Stack Developer (.NET | ASP.NET Core) | B.Tech CSE | Problem Solver</h3>
+<h3 align="center"> Full Stack Developer (.NET | ASP.NET Core) | B.Tech CSE | Problem Solver</h3>
 
 <p align="center">
 Building scalable, secure, and maintainable web applications with .NET
@@ -55,12 +55,17 @@ Building scalable, secure, and maintainable web applications with .NET
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sagarkumar1824&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarkumar1824&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagarkumar1824&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sagarkumar1824&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  />
 </p>
+
 
 ---
 
